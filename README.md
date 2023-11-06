@@ -1,16 +1,13 @@
 # Unit Converter
 
-Unit Converter
-
 A way for users to convert different measurements easily all at once.
 
-Author
+# Author
 Wayne Myrie Jr
 
-View project here: https://unit-conversion-calculations.netlify.app/
+# View project here: https://unit-conversion-calculations.netlify.app/
 
-
-Tech Stack
+# Tech Stack
 
 ```
 $ npm install
