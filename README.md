@@ -1,6 +1,16 @@
-# co4f54c73ae6886bceaeee1f6
+# Unit Converter
 
-Quick start:
+Unit Converter
+
+A way for users to convert different measurements easily all at once.
+
+Author
+Wayne Myrie Jr
+
+View project here: https://unit-conversion-calculations.netlify.app/
+
+
+Tech Stack
 
 ```
 $ npm install
